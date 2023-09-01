@@ -1,0 +1,269 @@
+[{
+    "_id": {
+      "$oid": "1"
+    },
+    "id": "1",
+    "nome": "SILVANA RODRIGUES FONSECA",
+    "idade": "14",
+    "cpf": "093.329.233-12"
+},
+{
+    "_id": {
+      "$oid": "2"
+    },
+    "id": "2",
+    "nome": "MARLENE DE FREITAS",
+    "idade": "19",
+    "cpf": "093.288.233-12"
+},
+{
+    "_id": {
+      "$oid": "3"
+    },
+    "id": "3",
+    "nome": "MARIA DE FÁTIMA",
+    "idade": "16",
+    "cpf": "093.329.233-10"    
+},
+{
+    "_id": {
+      "$oid": "4"
+    },
+    "id": "4",
+    "nome": "CARLOS EDUARDO",
+    "idade": "14",
+    "cpf": "093.329.233-00"
+},{
+    "_id": {
+      "$oid": "1"
+    },
+    "id": "5",
+    "nome": "ROMÁRIO AQUINO",
+    "idade": "23",
+    "cpf": "558.837.120-88"
+},
+{
+    "_id": {
+      "$oid": "2"
+    },
+    "id": "6",
+    "nome": "MARILUCIA ALVES",
+    "idade": "19",
+    "cpf": "324.036.340-26"
+},
+{
+    "_id": {
+      "$oid": "3"
+    },
+    "id": "7",
+    "nome": "LUIZA FARIAS",
+    "idade": "16",
+    "cpf": "155.624.100-36"    
+},
+{
+    "_id": {
+      "$oid": "4"
+    },
+    "id": "8",
+    "nome": "CARLOS EVERARDO",
+    "idade": "14",
+    "cpf": "563.874.890-32"
+},
+{
+    "_id": {
+      "$oid": "1"
+    },
+    "id": 9,
+    "nome": "MATHEUS ALEXANDRE",
+    "idade": "14",
+    "cpf": "474.080.740-82"
+},
+{
+    "_id": {
+      "$oid": "2"
+    },
+    "id": 10,
+    "nome": "ALAISON MARTINS",
+    "idade": "19",
+    "cpf": "145.817.900-18"
+},
+{
+    "_id": {
+      "$oid": "3"
+    },
+    "id": 11,
+    "nome": "MARIA AUGUSTA",
+    "idade": "16",
+    "cpf": "751.882.410-80"    
+},
+{
+    "_id": {
+      "$oid": "4"
+    },
+    "id": 12,
+    "nome": "YVINA LURDES",
+    "idade": "14",
+    "cpf": "352.847.520-07"
+},
+{
+    "_id": {
+      "$oid": "1"
+    },
+    "id": 13,
+    "nome": "KAROL VIANA",
+    "idade": "14",
+    "cpf": "380.984.460-85"
+},
+{
+    "_id": {
+      "$oid": "2"
+    },
+    "id": 14,
+    "nome": "KAREN CARLITO",
+    "idade": "19",
+    "cpf": "391.246.960-13"
+},
+{
+    "_id": {
+      "$oid": "3"
+    },
+    "id": 15,
+    "nome": "MEIRE ALVES",
+    "idade": "16",
+    "cpf": "996.588.620-20"    
+},
+{
+    "_id": {
+      "$oid": "4"
+    },
+    "id": 16,
+    "nome": "KARINA RIBEIRO",
+    "idade": "29",
+    "cpf": "947.485.930-24"
+},{
+    "_id": {
+      "$oid": "1"
+    },
+    "id": 17,
+    "nome": "KAROLINE NOGUEIRA",
+    "idade": "14",
+    "cpf": "283.838.290-00"
+},
+{
+    "_id": {
+      "$oid": "2"
+    },
+    "id": 18,
+    "nome": "IKARO DE FREITAS",
+    "idade": "19",
+    "cpf": "269.755.650-82"
+},
+{
+    "_id": {
+      "$oid": "3"
+    },
+    "id": 19,
+    "nome": "VICTOR MAURÍCIO",
+    "idade": "16",
+    "cpf": "269.755.650-82"    
+},
+{
+    "_id": {
+      "$oid": "4"
+    },
+    "id": 20,
+    "nome": "KETLEN LINE",
+    "idade": "14",
+    "cpf": "990.077.970-34"
+},{
+    "_id": {
+      "$oid": "1"
+    },
+    "id": 21,
+    "nome": "GUSTAVO SILVEIRA",
+    "idade": "14",
+    "cpf": "783.192.940-10"
+},
+{
+    "_id": {
+      "$oid": "2"
+    },
+    "id": 22,
+    "nome": "LURDES MARIANA",
+    "idade": "19",
+    "cpf": "783.192.940-10"
+},
+{
+    "_id": {
+      "$oid": "3"
+    },
+    "id": 23,
+    "nome": "KAROLINA BERENICE",
+    "idade": "16",
+    "cpf": "829.792.910-80"    
+},
+{
+    "_id": {
+      "$oid": "4"
+    },
+    "id": 24,
+    "nome": "LUCAS MARIANO",
+    "idade": "14",
+    "cpf": "632.432.250-51"
+},{
+    "_id": {
+      "$oid": "1"
+    },
+    "id": 25,
+    "nome": "ELIZABETH SEGUNDA",
+    "idade": "14",
+    "cpf": "368.047.810-07"
+},
+{
+    "_id": {
+      "$oid": "2"
+    },
+    "id": 26,
+    "nome": "VLADIMIR LENIN",
+    "idade": "19",
+    "cpf": "118.558.830-23"
+},
+{
+    "_id": {
+      "$oid": "3"
+    },
+    "id": 27,
+    "nome": "TOM ROSSEAU",
+    "idade": "16",
+    "cpf": "076.853.590-57"    
+},
+{
+    "_id": {
+      "$oid": "4"
+    },
+    "id": 28,
+    "nome": "JOHN LOCK",
+    "idade": "14",
+    "cpf": "783.001.220-28"
+},
+{
+    "_id": {
+      "$oid": "4"
+    },
+    "id": 29,
+    "nome": "SÓCRATES DE MADALENA",
+    "idade": "14",
+    "cpf": "702.072.320-91"
+},
+{
+    "_id": {
+      "$oid": "4"
+    },
+    "id": 30,
+    "nome": "TALES DE MILETO",
+    "idade": "14",
+    "cpf": "646.378.230-05"
+}
+
+
+]
