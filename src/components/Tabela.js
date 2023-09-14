@@ -4,7 +4,7 @@ import { Table } from "react-bootstrap";
 
 export default function Tabela({ currentalunos }) {
     return (
-        <Table striped bordered hover variant="dark">
+        <Table striped bordered hover variant="dark" responsive>
             <thead>
 
                 <tr>
